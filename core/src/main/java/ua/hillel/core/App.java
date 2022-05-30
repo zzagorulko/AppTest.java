@@ -8,8 +8,7 @@ import org.apache.commons.lang3.RandomStringUtils;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!"); //nosonar
-        System.out.println(RandomStringUtils.randomAlphanumeric(50)); //nosonar
+        System.out.println("Hello World!");
     }
 
 }
